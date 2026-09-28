@@ -1,0 +1,33 @@
+{
+  "commit": "bff5eecb3472d85bc5e4606d16fff8afd842eb95",
+  "deployedAt": "2026-09-28T02:57:30Z",
+  "assets": {
+    "/shell": "6a678a1b89ecd47f0a0dfed403f82cba2c69ed5658ea2f98887b236c981ffcdc",
+    "/app/style.css": "aeaa64e1574b0946e3034165304bf5ae9c34a58370df39c9597e044a8fc0d88d",
+    "/app/main.js": "1436dcf77b69aa5bc56b2e49379dc99e0029f75d7d242e8314641baee541f377",
+    "/app/conversation.js": "bcda8ecb1d3c6d0a3e3344426f1bedc03ccd880965e4ee067a32df7361730f84",
+    "/app/storage.js": "89c6361be478e1f645d0094cae1b72a33ed0691653ce525373afa92a18895d6b",
+    "/app/invites.js": "09f49342bddb8aa9d29143bfce5893f81406c2afb341380460310868a2c20aa0",
+    "/app/pairing.js": "b03dd5310ef66c4db58a6614ec96bbccfdc83bc2c7fee51c4aacd9958553b74d",
+    "/app/model.js": "4a199773a8914bc5b1c87a0353021131e138bf7f3b3df4d3c34cc91c2839faa5",
+    "/app/ui.js": "1876e9286c5ac488af43fec85e8031dea3348df5b4446dad28f44574ccb7bee3",
+    "/app/presentation.js": "53aa0c1625baa61c13d683b9f3c9474ff8eee8dc4125b4771e82d7e11ebf69de",
+    "/app/notifications.js": "567a46e3a496524cfd677ed773203b3248628dd8cae9a19d323e4ed4dcd29e18",
+    "/app/lifecycle.js": "c77c3cf5fca66cf582efe99cbffea1961f0fdfcb78d2493b0f86667d69d7af97",
+    "/app/qr.js": "14e5e477adfe114d2e3c294025859d94af444d38b2d6b26482ab23a63610ed8d",
+    "/lib/keys.js": "1ac8d82fc556bf33337e6e93a7864e2575a026f3501c805502baebd134c94790",
+    "/lib/handshake.js": "c67efced8b39f1e1b7167c10564d51f6f7553dc04981faaaea7b97524faceff5",
+    "/lib/ratchet.js": "db8b50ab5c39a2d0259f35cf274c1d80e519d5f5dac23e96f2b8ea38b59e7b7c",
+    "/lib/message.js": "c815dc72098349f5e6c0a71903ff9923111d6b864b47a7bd3192b6fb4a83edc6",
+    "/vendor/@noble/post-quantum/ml-kem.js": "e5f1a3fa994f663c48f64b0583cf29ddbb2cfb7f3dd63fe18a7beb7aa9c12541",
+    "/vendor/@noble/post-quantum/_crystals.js": "f8a50221e4d2e7e849e8e4f7443ecff2f722581aef592c907ed57a5480c72885",
+    "/vendor/@noble/post-quantum/utils.js": "01e9046ea3e45fe7569d3ae2881515d0a9446882d602255ab7627915aa0fd2af",
+    "/vendor/@noble/hashes/sha3.js": "9a81e1edb24eae27b335533220167609cfb58008c5690e140ce478acdc669f32",
+    "/vendor/@noble/hashes/_u64.js": "b09da8c07fe8187c07649494cdb7cd0bcf13df90b506a9473d19e4d5f8c2e102",
+    "/vendor/@noble/hashes/utils.js": "037ad49adb78168b6b699598fd33f85f7877456b1d28b4d032e2a1a16807947c",
+    "/vendor/@noble/curves/abstract/fft.js": "a4b2ff7ca33f4acc85d61f0e83ec3303c3f6b38ecc19b20d0f6462d820e518cf",
+    "/vendor/@noble/curves/abstract/modular.js": "9ced3aa10598277a735e54f7b61d88e929d565da884ba5385f9006ebb3b6aab2",
+    "/vendor/@noble/curves/utils.js": "be9ff86aef76419376e4d66cf01a134f3117f1f8dd62d81f1b79100145503367",
+    "/sw.js": "3dad20f8acce750eff93291191042a2f037da67044c95a93afd81b85c917da66"
+  }
+}
