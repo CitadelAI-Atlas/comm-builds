@@ -32,11 +32,5 @@
     "/vendor/@noble/curves/abstract/modular.js": "9ced3aa10598277a735e54f7b61d88e929d565da884ba5385f9006ebb3b6aab2",
     "/vendor/@noble/curves/utils.js": "be9ff86aef76419376e4d66cf01a134f3117f1f8dd62d81f1b79100145503367",
     "/sw.js": "8399b1863754970d72377988989eaa1eebe4f73d76f44153f52f34adf2746960"
-  },
-  "rekor": {
-    "logIndex": 3075747423,
-    "bundle": "builds/0c63d3b2477df9f96dd4006be40cdaca0a560f5e.bundle.json",
-    "record": "builds/0c63d3b2477df9f96dd4006be40cdaca0a560f5e.json",
-    "search": "https://search.sigstore.dev/?logIndex=3075747423"
   }
 }
