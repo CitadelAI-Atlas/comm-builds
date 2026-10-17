@@ -1,17 +1,17 @@
 {
-  "commit": "ce50cf91018d2a5f029b1d12d6f795881af3b882",
-  "deployedAt": "2026-10-17T02:14:27Z",
+  "commit": "fdf71768f26bbc11d613e4df3ec5af05f9173d95",
+  "deployedAt": "2026-10-17T02:44:36Z",
   "assets": {
-    "/shell": "e329a58029291a46f08db580b3426980aa395476f0267caa1ce8593fde92d859",
+    "/shell": "7c93e51e42581229a894af905b7bfa04fad1a8dbe02df72e4865fa06f8f28aa7",
     "/app/style.css": "9f2570fbf1f68aa1cbc4a1ffb4f8cea622af2514f5587f601b9f452f04f1078b",
-    "/app/main.js": "8a984bb42364220eb28727261390f0fa78cf950f76a041fa031ba91108fe8d98",
+    "/app/main.js": "17002521640cce6dbb753612848ef145aba11a8983d63cd7d49d96068038aba8",
     "/app/conversation.js": "5e18ea297a5a1929228da7822c16b7a78b84dba5cd74cb6e689eb6217e27d24f",
-    "/app/storage.js": "b656f76a10bb14a6564771a08a81f8a379cf2397f2fa2bd3e0950f64c62577a4",
-    "/app/invites.js": "4c10c5a3a4af04332129f60004496bd90e744c92fe4a35ed64d2b11aae7f83ef",
+    "/app/storage.js": "e6d94f88ef3ca506886db6101e813162ea3c0211865cb95af4bfb5b9bfd1dfd7",
+    "/app/invites.js": "400d55eb1482b902ba7b93e17d14b84a04f4a7f4aa8c14ca948a6cd179bdaffd",
     "/app/pairing.js": "b3d0ded9818308d179176847d8f0d24cae2215b42f5648e111c665c9ec7f0310",
     "/app/model.js": "6b86352b6de3b91d0482b1fb89fa191ff5404627c320a30f773a2cca01988e4e",
-    "/app/ui.js": "750e6aec2fa0ab88704cd86c7910814d9e9468cca3aaaaf57723819c9ee7abcf",
-    "/app/presentation.js": "d8ffb48467389239a9c880e03ce72ff69c124f99c3aa8d05e91e96f23ab68341",
+    "/app/ui.js": "f9faa057b574161528176c864c9cd96ac1f716da9cede8d9a6bbe47558cc7c0a",
+    "/app/presentation.js": "df722709fd88a4288a31dd0ab8a02f649b670e88e1818c65341c4ba376e34377",
     "/app/notifications.js": "e75c9aa3a8615a9aec9283fc2723fc8679fefc2dca8ba930790c3bb05bf051b7",
     "/app/lifecycle.js": "c77c3cf5fca66cf582efe99cbffea1961f0fdfcb78d2493b0f86667d69d7af97",
     "/app/qr.js": "14e5e477adfe114d2e3c294025859d94af444d38b2d6b26482ab23a63610ed8d",
@@ -35,9 +35,9 @@
     "/sw.js": "52d73258953b149a2fffc165ae7b19d37c5165a10cf3ce1a1a28b4750f925b3f"
   },
   "rekor": {
-    "logIndex": 3287946849,
-    "bundle": "builds/ce50cf91018d2a5f029b1d12d6f795881af3b882.bundle.json",
-    "record": "builds/ce50cf91018d2a5f029b1d12d6f795881af3b882.json",
-    "search": "https://search.sigstore.dev/?logIndex=3287946849"
+    "logIndex": 3288287278,
+    "bundle": "builds/fdf71768f26bbc11d613e4df3ec5af05f9173d95.bundle.json",
+    "record": "builds/fdf71768f26bbc11d613e4df3ec5af05f9173d95.json",
+    "search": "https://search.sigstore.dev/?logIndex=3288287278"
   }
 }
